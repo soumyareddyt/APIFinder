@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API Finder</string>
+    <string name="stars">%1$s ★</string>
+    <string name="search">Search</string>
+</resources>
